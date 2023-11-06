@@ -7,10 +7,11 @@ https://github.com/weiso131/terminal_anime/assets/131360912/07082aad-dfef-4999-8
 
 
 ## 使用步驟
-1. 先將影片每一幀的圖片丟到img資料夾
-2. 執行image_to_txt.py
-3. 編譯 anime_terminal.c
-4. 把terminal視窗開到最大，然後按下space
+1. 自己創兩個空資料夾，分別命名成img和txt
+2. 先將影片每一幀的圖片丟到img資料夾
+3. 執行image_to_txt.py
+4. 編譯 anime_terminal.c
+5. 把terminal視窗開到最大，然後按下space
 ## 圖片太大怎麼辦
 可以到image_to_txt.py修改turn_img_to_txt的輸入fx和fy的數值，建議fx:fy是2:1
 
