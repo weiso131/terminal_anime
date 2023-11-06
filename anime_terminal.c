@@ -52,7 +52,7 @@ int main() {
             show_img(txt_path);
             fflush(stdout);
 
-            usleep(21150); // 500ms
+            usleep(21150); // 1e-6s
 
 
         }
